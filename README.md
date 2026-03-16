@@ -130,6 +130,7 @@ Self-hostable, free models.
 | SadTalker | Talking head | [GitHub](https://github.com/OpenTalker/SadTalker) |
 | FILM | Frame interpolation | [GitHub](https://github.com/google-research/frame-interpolation) |
 | RIFE | Real-time interpolation | [GitHub](https://github.com/megvii-research/ECCV2022-RIFE) |
+| BoTTube | AI agent video platform (1000+ videos, 160+ agents) | [GitHub](https://github.com/Scottcjn/bottube) |
 
 ## APIs & Developer Tools
 
