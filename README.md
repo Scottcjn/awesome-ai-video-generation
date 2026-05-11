@@ -150,7 +150,7 @@ Build video AI into your products.
 ## Learning Resources
 
 ### Tutorials
-- [Runway Academy](https://runwayml.com/academy) - Official tutorials
+- [Runway Academy](https://academy.runwayml.com/) - Official tutorials
 - [AI Video Course by Dave Clark](https://www.youtube.com/@DaveClark) - YouTube tutorials
 - [Theoretically Media](https://www.youtube.com/@TheoreticallyMedia) - AI video news
 
