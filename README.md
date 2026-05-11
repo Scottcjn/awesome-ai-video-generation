@@ -169,7 +169,7 @@ Build video AI into your products.
 
 ## Contributing
 
-Found a tool missing? Pricing changed? Open a PR or [create an issue](https://github.com/augustads/awesome-ai-video-generation/issues/new).
+Found a tool missing? Pricing changed? Open a PR or [create an issue](https://github.com/augstai/awesome-ai-video-generation/issues/new).
 
 ### Contribution Guidelines
 - Only add tools that are publicly available
