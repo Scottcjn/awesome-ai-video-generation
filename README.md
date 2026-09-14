@@ -167,6 +167,10 @@ Build video AI into your products.
 
 ---
 
+### Ready Release
+- [Ready Release](https://www.readyrelease.net) - Music Shorts, cinematic 4K music videos, and performance videos with artist or avatar lip-sync for indie and AI artists.
+- 
+
 ## Contributing
 
 Found a tool missing? Pricing changed? Open a PR or [create an issue](https://github.com/augustads/awesome-ai-video-generation/issues/new).
