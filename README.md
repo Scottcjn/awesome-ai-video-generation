@@ -67,6 +67,7 @@ Tools specifically built for performance marketing and ad creative.
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
 | [Opus Clip](https://opus.pro) | $19-99/mo | Clip extraction | AI picks best moments |
+| [Clout](https://tryclout.ai/) | Paid | Social content creators | AI characters, image/video generation, and faceless video workflows. |
 
 ## Video Editing & Enhancement
 
