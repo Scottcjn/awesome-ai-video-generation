@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [APT Video AI](https://aptvideoai.app) | Trend template remakes | Two photos → pink-studio duo clip; fan-made; one-time packs |
 
 ## Open Source
 
