@@ -34,6 +34,7 @@ Generate video from text prompts. The core AI video tech.
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
 | [PixVerse](https://pixverse.ai) | Freemium | Stylized content | Good for anime/artistic styles. |
+| [Cicadas.ai](https://cicadas.ai) | Credit-based | Shorts/UGC teams comparing models | Multi-model studio (Kling, Veo, Seedance, Wan, Hailuo). One credit balance; price before each generate. |
 
 ## AI Avatars & Talking Heads
 
