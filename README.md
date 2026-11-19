@@ -64,6 +64,7 @@ Tools specifically built for performance marketing and ad creative.
 | [Captions](https://captions.ai) | $15-50/mo | Short-form | AI editing, auto-captions |
 | [Invideo AI](https://invideo.io) | $25-60/mo | Faceless content | Text-to-video for YouTube |
 | [Shuffll](https://shuffll.com) | Custom | B2B video | Sales and marketing videos |
+| [Starpop](https://starpop.ai) | $50-100/mo | E-commerce and DTC | Researches customer language and winning ads, then generates UGC, static and video ads. |
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
 | [Opus Clip](https://opus.pro) | $19-99/mo | Clip extraction | AI picks best moments |
