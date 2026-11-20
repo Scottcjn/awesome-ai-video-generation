@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [AI Pop Video](https://aipopvideo.com/) | Photo-to-dance clips | Template-based dance and effect videos; can copy moves from your own reference video. Credit-based, new users currently get 30 welcome credits. |
 
 ## Open Source
 
